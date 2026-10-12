@@ -1,0 +1,13 @@
+:root {
+  --gold:        #c8920d;
+  --gold-bright: #e8b030;
+  --gold-pale:   #f0d080;
+  --gold-dim:    #7a5808;
+  --char:        #0c0a07;
+  --dark:        #110e09;
+  --bone:        #d8c8a8;
+  --bone-mid:    #a89878;
+  --bone-dim:    #6e5e48;
+  --ember:       #ff5500;
+  --fog-color:   rgba(30, 20, 8, 0.85);
+}
